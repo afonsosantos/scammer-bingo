@@ -11,13 +11,14 @@ var winText = 'Winner!';
 var selectedToWin = 8;
 
 // Text Array
+// Only 24 (23 strings for array and free space) will be displayed!
 var data = {
   squares: [
     { square: 'kit reedems fake gift card' },
     { square: 'WIN + R' },
     { square: 'MS cancelation form' },
     { square: 'transfer to refund d.p.' },
-    { square: 'fake bank' },
+    { square: 'logging in into fake bank' },
     { square: 'scammer fakes bank balance' },
     { square: 'download remote support software' },
     { square: 'open chrome' },
