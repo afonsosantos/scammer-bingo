@@ -1,6 +1,6 @@
 # Scammer Bingo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a734a27c-44a4-4299-9a96-8fae7fe593be/deploy-status)](https://app.netlify.com/sites/radio-afonsosantos/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/95e694f7-b435-458f-811c-9e02b070bab8/deploy-status)](https://app.netlify.com/sites/scammer-bingo/deploys)
 
 #### Another scammer bingo game, designed for the "refund" scams
 
