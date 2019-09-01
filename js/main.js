@@ -7,9 +7,13 @@ $(document).ready(function() {
   // Shuffles the bingo board
   shuffle(data.squares);
 
-  // Populates the table
-  for (i = 0; i < 20; i++) {
-    $('#bingo-table').append("<div data-value='0' class='square'><div class='text'><br/>" + data.squares[i].square + '</div></div>');
+  for (i = 0; i < 24; i++) {
+    if (i == 12) {
+      $('#bingo-table').append("<div data-value='1' class='freesquare' id='sqfree'><div class='text'><br/>Free Space</div></div>");
+      $('#bingo-table').append("<div data-value='0' class='square' id='sq12'><div class='text'><br/>" + data.squares[i].square + '</div></div>');
+    } else {
+      $('#bingo-table').append("<div data-value='0' class='square' id='sq" + i + "'><div class='text'><br/>" + data.squares[i].square + '</div></div>');
+    }
   }
 
   // Whenever a square is selected

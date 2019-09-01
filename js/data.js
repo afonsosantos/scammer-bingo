@@ -2,7 +2,10 @@
 
 var headerText = '<span>Scammer</span> Bingo';
 var subHeader = '<span>Refund Scam Special Edition</span>';
-var footerText = `Made by Afonso Santos based on <a href="http://kitboga.com/bingo">KitBogas's Bingo</a>`;
+var footerText = `
+  Made by <a href="https://afonsosantos-dev.tk">Afonso Santos</a> based on <a href="http://kitboga.com/bingo">KitBogas's Bingo</a><br>
+  <small>Suggestions? Message me on Discord: <i>afonso santos#9214</i> or create a <a href="https://github.com/afonsosantos/scammer-bingo/pulls">Pull Request</a></small>
+`;
 var winText = 'Winner!';
 
 var selectedToWin = 8;
@@ -10,10 +13,10 @@ var selectedToWin = 8;
 // Text Array
 var data = {
   squares: [
-    { square: 'kit reedems play card' },
+    { square: 'kit reedems fake gift card' },
     { square: 'WIN + R' },
     { square: 'MS cancelation form' },
-    { square: 'transfer to refund dp' },
+    { square: 'transfer to refund d.p.' },
     { square: 'fake bank' },
     { square: 'scammer fakes bank balance' },
     { square: 'download remote support software' },
@@ -29,6 +32,15 @@ var data = {
     { square: 'online bank only' },
     { square: 'scammer is going to loose his job' },
     { square: 'opens notepad' },
-    { square: 'secure CMD refundation form' }
+    { square: 'secure CMD refundation form' },
+    { square: 'calling the bank' },
+    { square: 'connect to secure server' },
+    { square: 'terrible sounding phone' },
+    { square: 'Hit on Run' },
+    { square: 'MAM, Lissen me!' },
+    { square: 'do one thing' },
+    { square: 'Laptop or Dextop?' },
+    { square: 'differente different' },
+    { square: 'this side <name>' }
   ]
 };
