@@ -18,6 +18,10 @@
 
 - [Netlify](https://www.netlify.com/) para hospedagem do site
 
+### Outros
+
+- [Google Analytics](https://analytics.google.com/analytics/web/) para recolha de estatística e dados públicos dos utilizadores do website
+
 ## Licença
 
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
