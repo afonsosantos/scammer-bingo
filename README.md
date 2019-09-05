@@ -13,6 +13,7 @@
 ### Bibliotecas
 
 - [JQuery](https://jquery.com/) para auxílio no código Javascript
+- [SweetAlert2](https://sweetalert2.github.io/) para notificar quando um utilizador ganha o jogo
 
 ### Hospedagem
 
